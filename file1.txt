@@ -1,2 +1,0 @@
-New branch
-Hotfix_branch is created
